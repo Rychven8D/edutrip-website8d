@@ -10,8 +10,7 @@ This is a school project website documenting my educational trip to Yogyakarta.
 
 ## 🌐 Live Website
 
-You can view the site here: [your-vercel-link](https://your-site.vercel.app)
-
+You can view the site here: [(https://edutrip-website8d-git-main-rychvens-projects.vercel.app)](https://edutrip-website8d-git-main-rychvens-projects.vercel.app)
 ## 📁 Tech Used
 
 - HTML
